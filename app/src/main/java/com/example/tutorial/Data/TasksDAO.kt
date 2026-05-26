@@ -1,6 +1,7 @@
 package com.example.tutorial.Data
 
 import androidx.room.Dao
+import androidx.room.Insert
 import androidx.room.Query
 import kotlinx.coroutines.flow.Flow
 
@@ -10,8 +11,8 @@ interface TasksDAO {
     @Query("SELECT * FROM Tasks")
     fun getAllTasks(): Flow<List<Tasks>>
 
-    @Query("INSERT INTO Tasks (task) VALUES (:task)")
-    suspend fun addTask(task: String)
+    @Insert
+    suspend fun addTask(task: Tasks)
 
     @Query("DELETE FROM Tasks WHERE id = :taskId")
     suspend fun deleteTask(taskId: Int)

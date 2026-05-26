@@ -43,8 +43,6 @@ import com.example.tutorial.Data.Tasks
 fun TasksScreen(viewModel: MainViewModel, navController: NavController) {
 
     val tasks by viewModel.tasks.collectAsState()
-    val darkMode by viewModel.switchState.collectAsState()
-
     Scaffold(
         modifier = Modifier.fillMaxSize(),
         floatingActionButton = {

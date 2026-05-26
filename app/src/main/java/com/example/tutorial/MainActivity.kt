@@ -27,7 +27,6 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             val viewmodel: MainViewModel = hiltViewModel()
-            val darkTheme by viewmodel.switchState.collectAsState()
             AppTheme {
                 Navigation(viewmodel)
             }
