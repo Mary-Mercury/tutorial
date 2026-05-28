@@ -51,9 +51,14 @@ tutorial\app\build\outputs\apk\debug
 * Вес APK файла - ~60мб.
 ***
 ### Скриншоты приложения
-<img alt="Screenshot_20260525_185752" src="https://github.com/user-attachments/assets/b4bec11f-d2c6-47f6-837b-532096f03f09" width="20%" height="auto" />
 
-<img alt="image" src="https://github.com/user-attachments/assets/8668460c-f7d8-40b8-8ff8-7d636ea6b8b1" width="20%" height="auto" />
+<img width="20%" height="auto" alt="image" src="https://github.com/user-attachments/assets/5d5b0cec-7d5b-4859-98f8-80bad57517b4" />
 
-<img width="20%" height="auto" alt="image" src="https://github.com/user-attachments/assets/f5d056eb-8c0c-4959-98ce-39ed34ba2068" />
+<img width="20%" height="auto" alt="image" src="https://github.com/user-attachments/assets/0c89b609-d2d7-4263-948d-bd367ab329f5" />
+
+<img width="20%" height="auto" alt="image" src="https://github.com/user-attachments/assets/5df3d025-99dc-4e8e-9cf6-74ba13847aa1" />
+
+<img width="20%" height="auto" alt="image" src="https://github.com/user-attachments/assets/deeaaeca-793f-4862-a00b-27e9960626c0" />
+
+<img width="20%" height="auto" alt="image" src="https://github.com/user-attachments/assets/50bd27d5-cf4f-4594-9f53-561d9b704dcd" />
 
